@@ -1,0 +1,17 @@
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\bin\Debug\net8.0-windows\31eylulhocaornekleri.exe
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\bin\Debug\net8.0-windows\31eylulhocaornekleri.deps.json
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\bin\Debug\net8.0-windows\31eylulhocaornekleri.runtimeconfig.json
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\bin\Debug\net8.0-windows\31eylulhocaornekleri.dll
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\bin\Debug\net8.0-windows\31eylulhocaornekleri.pdb
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\_31eylulhocaornekleri.Form1.resources
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\31eylulhocaornekleri.csproj.GenerateResource.cache
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\31eylulhocaornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\31eylulhocaornekleri.AssemblyInfoInputs.cache
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\31eylulhocaornekleri.AssemblyInfo.cs
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\31eylulhocaornekleri.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\31eylulhocaornekleri.dll
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\refint\31eylulhocaornekleri.dll
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\31eylulhocaornekleri.pdb
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\31eylulhocaornekleri.genruntimeconfig.cache
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\ref\31eylulhocaornekleri.dll
+C:\Users\FMTAL\source\repos\31eylulhocaornekleri\31eylulhocaornekleri\obj\Debug\net8.0-windows\_31eylulhocaornekleri.Form2.resources

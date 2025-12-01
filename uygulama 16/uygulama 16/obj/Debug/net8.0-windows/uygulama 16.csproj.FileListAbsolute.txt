@@ -1,0 +1,16 @@
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\bin\Debug\net8.0-windows\uygulama 16.exe
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\bin\Debug\net8.0-windows\uygulama 16.deps.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\bin\Debug\net8.0-windows\uygulama 16.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\bin\Debug\net8.0-windows\uygulama 16.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\bin\Debug\net8.0-windows\uygulama 16.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama_16.Form1.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama 16.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama 16.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama 16.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama 16.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama 16.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\refint\uygulama 16.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama 16.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\uygulama 16.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama 16\uygulama 16\obj\Debug\net8.0-windows\ref\uygulama 16.dll

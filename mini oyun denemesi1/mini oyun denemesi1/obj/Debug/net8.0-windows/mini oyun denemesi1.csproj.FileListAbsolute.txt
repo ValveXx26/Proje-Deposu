@@ -1,0 +1,17 @@
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\bin\Debug\net8.0-windows\mini oyun denemesi1.exe
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\bin\Debug\net8.0-windows\mini oyun denemesi1.deps.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\bin\Debug\net8.0-windows\mini oyun denemesi1.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\bin\Debug\net8.0-windows\mini oyun denemesi1.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\bin\Debug\net8.0-windows\mini oyun denemesi1.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini_oyun_denemesi1.Form1.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini_oyun_denemesi1.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini oyun denemesi1.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini oyun denemesi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini oyun denemesi1.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini oyun denemesi1.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini oyun denemesi1.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini oyun denemesi1.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\refint\mini oyun denemesi1.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini oyun denemesi1.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\mini oyun denemesi1.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\mini oyun denemesi1\mini oyun denemesi1\obj\Debug\net8.0-windows\ref\mini oyun denemesi1.dll

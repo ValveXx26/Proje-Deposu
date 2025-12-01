@@ -1,0 +1,17 @@
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\bin\Debug\net8.0-windows\uygulama2.exe
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\bin\Debug\net8.0-windows\uygulama2.deps.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\bin\Debug\net8.0-windows\uygulama2.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\bin\Debug\net8.0-windows\uygulama2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\bin\Debug\net8.0-windows\uygulama2.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.Form1.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\refint\uygulama2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\uygulama2.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\uygulama2\uygulama2\obj\Debug\net8.0-windows\ref\uygulama2.dll

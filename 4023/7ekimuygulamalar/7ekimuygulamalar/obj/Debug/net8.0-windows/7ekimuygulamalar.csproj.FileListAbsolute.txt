@@ -1,0 +1,16 @@
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\bin\Debug\net8.0-windows\7ekimuygulamalar.exe
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\bin\Debug\net8.0-windows\7ekimuygulamalar.deps.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\bin\Debug\net8.0-windows\7ekimuygulamalar.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\bin\Debug\net8.0-windows\7ekimuygulamalar.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\bin\Debug\net8.0-windows\7ekimuygulamalar.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\_7ekimuygulamalar.Form1.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\7ekimuygulamalar.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\7ekimuygulamalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\7ekimuygulamalar.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\7ekimuygulamalar.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\7ekimuygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\7ekimuygulamalar.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\refint\7ekimuygulamalar.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\7ekimuygulamalar.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\7ekimuygulamalar.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\7ekimuygulamalar\7ekimuygulamalar\obj\Debug\net8.0-windows\ref\7ekimuygulamalar.dll

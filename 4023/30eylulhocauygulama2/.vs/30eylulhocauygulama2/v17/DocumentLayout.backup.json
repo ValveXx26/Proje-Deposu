@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C602BC1-79D0-4700-A2D8-CA96AF2D1A04}|30eylulhocauygulama2\\30eylulhocauygulama2.csproj|f:\\visual studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C602BC1-79D0-4700-A2D8-CA96AF2D1A04}|30eylulhocauygulama2\\30eylulhocauygulama2.csproj|solutionrelative:30eylulhocauygulama2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C602BC1-79D0-4700-A2D8-CA96AF2D1A04}|30eylulhocauygulama2\\30eylulhocauygulama2.csproj|f:\\visual studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C602BC1-79D0-4700-A2D8-CA96AF2D1A04}|30eylulhocauygulama2\\30eylulhocauygulama2.csproj|solutionrelative:30eylulhocauygulama2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C602BC1-79D0-4700-A2D8-CA96AF2D1A04}|30eylulhocauygulama2\\30eylulhocauygulama2.csproj|f:\\visual studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C602BC1-79D0-4700-A2D8-CA96AF2D1A04}|30eylulhocauygulama2\\30eylulhocauygulama2.csproj|solutionrelative:30eylulhocauygulama2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C602BC1-79D0-4700-A2D8-CA96AF2D1A04}|30eylulhocauygulama2\\30eylulhocauygulama2.csproj|F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C602BC1-79D0-4700-A2D8-CA96AF2D1A04}|30eylulhocauygulama2\\30eylulhocauygulama2.csproj|solutionrelative:30eylulhocauygulama2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\Form2.cs",
+              "RelativeDocumentMoniker": "30eylulhocauygulama2\\Form2.cs",
+              "ToolTip": "F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\Form2.cs",
+              "RelativeToolTip": "30eylulhocauygulama2\\Form2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:18:19.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\Form2.cs",
+              "RelativeDocumentMoniker": "30eylulhocauygulama2\\Form2.cs",
+              "ToolTip": "F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\Form2.cs [Design]",
+              "RelativeToolTip": "30eylulhocauygulama2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:17:37.84Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\Form1.cs",
+              "RelativeDocumentMoniker": "30eylulhocauygulama2\\Form1.cs",
+              "ToolTip": "F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\Form1.cs",
+              "RelativeToolTip": "30eylulhocauygulama2\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:15:58.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studio projeler\\4023 yunus emre\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\Form1.cs",
+              "RelativeDocumentMoniker": "30eylulhocauygulama2\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\4023\\30eylulhocauygulama2\\30eylulhocauygulama2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:14:57.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

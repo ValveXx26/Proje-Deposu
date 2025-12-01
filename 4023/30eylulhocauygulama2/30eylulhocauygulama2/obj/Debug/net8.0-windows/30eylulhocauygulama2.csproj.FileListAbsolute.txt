@@ -1,0 +1,49 @@
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\bin\Debug\net8.0-windows\30eylulhocauygulama2.exe
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\bin\Debug\net8.0-windows\30eylulhocauygulama2.dll
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\_30eylulhocauygulama2.Form1.resources
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\_30eylulhocauygulama2.Form2.resources
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.csproj.GenerateResource.cache
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.AssemblyInfoInputs.cache
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.AssemblyInfo.cs
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.dll
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\refint\30eylulhocauygulama2.dll
+C:\Users\FMTAL\source\repos\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.pdb
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\bin\Debug\net8.0-windows\30eylulhocauygulama2.exe
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\bin\Debug\net8.0-windows\30eylulhocauygulama2.deps.json
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\bin\Debug\net8.0-windows\30eylulhocauygulama2.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\bin\Debug\net8.0-windows\30eylulhocauygulama2.dll
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\bin\Debug\net8.0-windows\30eylulhocauygulama2.pdb
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\_30eylulhocauygulama2.Form1.resources
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\_30eylulhocauygulama2.Form2.resources
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.dll
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\refint\30eylulhocauygulama2.dll
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.pdb
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\ref\30eylulhocauygulama2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\_30eylulhocauygulama2.Form1.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\_30eylulhocauygulama2.Form2.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\refint\30eylulhocauygulama2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.pdb
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\_30eylulhocauygulama2.Form1.resources
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\_30eylulhocauygulama2.Form2.resources
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.csproj.GenerateResource.cache
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.AssemblyInfoInputs.cache
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.AssemblyInfo.cs
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.csproj.CoreCompileInputs.cache
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.dll
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\refint\30eylulhocauygulama2.dll
+F:\Visual Studio projeler\4023 yunus emre\4023\30eylulhocauygulama2\30eylulhocauygulama2\obj\Debug\net8.0-windows\30eylulhocauygulama2.pdb

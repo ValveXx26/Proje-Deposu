@@ -1,0 +1,48 @@
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.exe
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.deps.json
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.dll
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.pdb
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.Form1.resources
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.dll
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\refint\otuzeyluluygulamalar.dll
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.pdb
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\ref\otuzeyluluygulamalar.dll
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.Form1.resources
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.csproj.GenerateResource.cache
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.GeneratedMSBuildEditorConfig.editorconfig
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.AssemblyInfoInputs.cache
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.AssemblyInfo.cs
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.csproj.CoreCompileInputs.cache
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.dll
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\refint\otuzeyluluygulamalar.dll
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.pdb
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.exe
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.deps.json
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.runtimeconfig.json
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.dll
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.pdb
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.genruntimeconfig.cache
+D:\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\ref\otuzeyluluygulamalar.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.exe
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.deps.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\bin\Debug\net8.0-windows\otuzeyluluygulamalar.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.Form1.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\refint\otuzeyluluygulamalar.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\otuzeyluluygulamalar.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\otuzeyluluygulamalar\otuzeyluluygulamalar\obj\Debug\net8.0-windows\ref\otuzeyluluygulamalar.dll

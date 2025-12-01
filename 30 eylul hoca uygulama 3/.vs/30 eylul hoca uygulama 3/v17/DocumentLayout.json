@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio projeler\\4023 yunus emre\\30 eylul hoca uygulama 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02403F7E-B9C3-40EC-99AF-88F38865AC9A}|30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3.csproj|F:\\Visual Studio projeler\\4023 yunus emre\\30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02403F7E-B9C3-40EC-99AF-88F38865AC9A}|30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3.csproj|solutionrelative:30 eylul hoca uygulama 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02403F7E-B9C3-40EC-99AF-88F38865AC9A}|30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3.csproj|f:\\visual studio projeler\\4023 yunus emre\\30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02403F7E-B9C3-40EC-99AF-88F38865AC9A}|30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3.csproj|solutionrelative:30 eylul hoca uygulama 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Visual Studio projeler\\4023 yunus emre\\30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3\\Form1.cs",
+              "RelativeDocumentMoniker": "30 eylul hoca uygulama 3\\Form1.cs",
+              "ToolTip": "F:\\Visual Studio projeler\\4023 yunus emre\\30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3\\Form1.cs",
+              "RelativeToolTip": "30 eylul hoca uygulama 3\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:10:13.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studio projeler\\4023 yunus emre\\30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3\\Form1.cs",
+              "RelativeDocumentMoniker": "30 eylul hoca uygulama 3\\Form1.cs",
+              "ToolTip": "F:\\Visual Studio projeler\\4023 yunus emre\\30 eylul hoca uygulama 3\\30 eylul hoca uygulama 3\\Form1.cs [Design]",
+              "RelativeToolTip": "30 eylul hoca uygulama 3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:46:55Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

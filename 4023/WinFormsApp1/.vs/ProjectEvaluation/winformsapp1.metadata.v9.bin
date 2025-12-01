@@ -1,0 +1,23 @@
+   LEVEL=MBLogLevelDebug FLAGS=TraceFlag FUNC=ClassGetDescriptor
+{
+ioStatus.Status, ItemLong -- 10
+}
+#typev class_c3089 86 "%0ClassGetDescriptor: unable to memory for descriptor (%10!d! bytes)" //   LEVEL=MBLogLevelDebug FLAGS=TraceFlag FUNC=ClassGetDescriptor
+{
+length, ItemLong -- 10
+}
+#typev class_c3073 85 "%0ClassGetDescriptor: size returned was zero?! (status %10!x!" //   LEVEL=MBLogLevelDebug FLAGS=TraceFlag FUNC=ClassGetDescriptor
+{
+ioStatus.Status, ItemLong -- 10
+}
+#typev class_c3067 84 "%0ClassGetDescriptor: error %10!x! trying to query properties #1" //   LEVEL=MBLogLevelDebug FLAGS=TraceFlag FUNC=ClassGetDescriptor
+{
+ioStatus.Status, ItemLong -- 10
+}
+#typev class_c2009 78 "%0ClassInterpretSenseInfo: Too many errors; disabling disconnects." //   LEVEL=MBLogLevelDebug FLAGS=TraceFlag FUNC=ClassInterpretSenseInfo
+{
+}
+#typev class_c2000 77 "%0ClassInterpretSenseInfo: Too many errors; disabling tagged queuing and synchronous data tranfers." //   LEVEL=MBLogLevelDebug FLAGS=TraceFlag FUNC=ClassInterpretSenseInfo
+{
+}
+#typev class_c1842 76 "%0ClassInterpret

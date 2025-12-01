@@ -1,0 +1,17 @@
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\bin\Debug\net8.0-windows\Oyun denemesi 7 ekim.exe
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\bin\Debug\net8.0-windows\Oyun denemesi 7 ekim.deps.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\bin\Debug\net8.0-windows\Oyun denemesi 7 ekim.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\bin\Debug\net8.0-windows\Oyun denemesi 7 ekim.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\bin\Debug\net8.0-windows\Oyun denemesi 7 ekim.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun_denemesi_7_ekim.Form1.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun_denemesi_7_ekim.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun denemesi 7 ekim.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun denemesi 7 ekim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun denemesi 7 ekim.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun denemesi 7 ekim.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun denemesi 7 ekim.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun denemesi 7 ekim.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\refint\Oyun denemesi 7 ekim.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun denemesi 7 ekim.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\Oyun denemesi 7 ekim.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\4023\Oyun denemesi 7 ekim\Oyun denemesi 7 ekim\obj\Debug\net8.0-windows\ref\Oyun denemesi 7 ekim.dll
