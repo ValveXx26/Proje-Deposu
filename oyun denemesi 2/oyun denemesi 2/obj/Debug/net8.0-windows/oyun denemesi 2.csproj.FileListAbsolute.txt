@@ -1,0 +1,102 @@
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Form1.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfoInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfo.cs
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.exe
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.deps.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.runtimeconfig.json
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\refint\oyun denemesi 2.dll
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.pdb
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.genruntimeconfig.cache
+C:\Users\FMTAL\Desktop\4023 yunus emre\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\ref\oyun denemesi 2.dll
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.exe
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.deps.json
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.runtimeconfig.json
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.dll
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.pdb
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Form1.resources
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Properties.Resources.resources
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.GenerateResource.cache
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfoInputs.cache
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfo.cs
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.CoreCompileInputs.cache
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.dll
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\refint\oyun denemesi 2.dll
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.pdb
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.genruntimeconfig.cache
+E:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\ref\oyun denemesi 2.dll
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.exe
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.deps.json
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.runtimeconfig.json
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.dll
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.pdb
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Form1.resources
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Properties.Resources.resources
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.GenerateResource.cache
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfoInputs.cache
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfo.cs
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.CoreCompileInputs.cache
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.dll
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\refint\oyun denemesi 2.dll
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.pdb
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.genruntimeconfig.cache
+F:\PLATFORM OYUNU DENEME\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\ref\oyun denemesi 2.dll
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.exe
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.deps.json
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.runtimeconfig.json
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.dll
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.pdb
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Form1.resources
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Properties.Resources.resources
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.GenerateResource.cache
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfoInputs.cache
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfo.cs
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.CoreCompileInputs.cache
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.dll
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\refint\oyun denemesi 2.dll
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.pdb
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.genruntimeconfig.cache
+C:\Users\yunus\OneDrive\Desktop\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\ref\oyun denemesi 2.dll
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.exe
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.deps.json
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.runtimeconfig.json
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.dll
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.pdb
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Form1.resources
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Properties.Resources.resources
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.GenerateResource.cache
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfoInputs.cache
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfo.cs
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.CoreCompileInputs.cache
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.dll
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\refint\oyun denemesi 2.dll
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.pdb
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.genruntimeconfig.cache
+E:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\ref\oyun denemesi 2.dll
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.exe
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.deps.json
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.runtimeconfig.json
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.dll
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\bin\Debug\net8.0-windows\oyun denemesi 2.pdb
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Form1.resources
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun_denemesi_2.Properties.Resources.resources
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.GenerateResource.cache
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfoInputs.cache
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.AssemblyInfo.cs
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.csproj.CoreCompileInputs.cache
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.dll
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\refint\oyun denemesi 2.dll
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.pdb
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\oyun denemesi 2.genruntimeconfig.cache
+F:\PLATFORM OYUNU DENEME\Proje oyun\oyun denemesi 2\oyun denemesi 2\obj\Debug\net8.0-windows\ref\oyun denemesi 2.dll
